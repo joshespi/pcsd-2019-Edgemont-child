@@ -45,7 +45,7 @@
 								  	</article>
 								<?php endwhile;
 							else :
-								echo '<p>No Content Found</p>';
+								
 
 							endif;
 						wp_reset_query();
